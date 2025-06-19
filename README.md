@@ -1,4 +1,4 @@
-# Pencarian Rute Optimal Lampung-Medan dengan Algoritma A*
+# Penerapan Algortima A* Search Dalam Kasus Pencarian Rute Tercepat dan Biaya Termurah dari Kota Bandar Lampung Menuju Medan 
 
 Sebuah implementasi dari algoritma pencarian A* (A-Star) untuk menemukan rute perjalanan darat yang optimal dari Bandar Lampung menuju Medan. Proyek ini menganalisis dua skenario optimisasi: mencari **rute tercepat** berdasarkan total waktu tempuh dan **rute termurah** berdasarkan total biaya tol.
 
