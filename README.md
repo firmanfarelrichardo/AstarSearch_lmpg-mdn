@@ -23,9 +23,11 @@ Dalam masalah pencarian rute, seringkali terdapat banyak kemungkinan jalur yang 
 | heapq | Bawaan | Modul standar Python untuk implementasi *priority queue* yang efisien, komponen inti dari algoritma A*. |
 
 ## Struktur Proyek
+```
 /
 ├── searching.ipynb         # File utama Jupyter Notebook berisi kode, analisis, dan output.
 └── lampungmedan.csv        # File dataset yang berisi data segmen rute, jarak, waktu, dan biaya.
+```
 
 ## Panduan Penggunaan
 
