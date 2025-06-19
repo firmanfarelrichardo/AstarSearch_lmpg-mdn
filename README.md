@@ -7,7 +7,7 @@ Program ini mengimplementasikan algoritma A* (A-Star) untuk menemukan rute palin
 ## Teknologi & Environment
 
 ### Bahasa Pemrograman
-* Python 3.9+
+* Python 3.13.3
 
 ### Library Utama
 * **pandas**: Digunakan untuk memuat dan memproses data rute dari file `.csv`.
