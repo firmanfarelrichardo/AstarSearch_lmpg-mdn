@@ -1,0 +1,17 @@
+Asal,Tujuan,Jalur,Jarak (km),Tipe Jalan,Estimasi Waktu (jam),Estimasi Biaya Tol (Rp)
+Lampung,Palembang,Timur,360,Tol,4,350
+Lampung,Baturaja,Tengah,230,Non-Tol,4.6,0
+Lampung,Krui,Barat,245,Non-Tol,4.9,0
+Palembang,Jambi,Timur,280,Tol (parsial),4.2,112
+Palembang,Lubuk Linggau,Tengah,320,Non-Tol,6.4,0
+Baturaja,Lubuk Linggau,Tengah,215,Non-Tol,4.3,0
+Krui,Bengkulu,Barat,260,Non-Tol,5.2,0
+Jambi,Pekanbaru,Timur,395,Non-Tol,7.9,0
+Jambi,Bukittinggi,Tengah,450,Non-Tol,9,0
+Lubuk Linggau,Bukittinggi,Tengah,430,Non-Tol,8.6,0
+Bengkulu,Padang,Barat,460,Non-Tol,9.2,0
+Pekanbaru,Rantau Prapat,Timur,380,Tol (parsial),5.8,90
+Bukittinggi,Padang Sidempuan,Tengah,230,Non-Tol,4.6,0
+Padang,Padang Sidempuan,Barat,290,Non-Tol,5.8,0
+Rantau Prapat,Medan,Timur,275,Tol (parsial),3.8,85
+Padang Sidempuan,Medan,Tengah/Barat,330,Non-Tol,6.6,0
